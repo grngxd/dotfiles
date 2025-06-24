@@ -16,7 +16,13 @@ welcomes to **my dotfiles**! This repository contains my personal configuration 
 - supports modern windows features and tools
 
 ## 🛠️ tools & apps
-- [neovim](https://neovim.io/)
+
+app | description | category
+--- | --- | ---
+[📰 neovim](https://neovim.io) | fast file editor | editor
+[🧸 devtoys](https://devtoys.app) | toolkit for developoers | toolkit
+[✨ twinkle tray](https://twinkletray.com/) | monitor brightness |system tray
+ 
 
 ## 📄 license
 my dotfiles are licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license, which means you can use, modify, and distribute them freely as long as you follow the terms of the license.
