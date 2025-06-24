@@ -1,0 +1,8 @@
+rice: {
+    packages: [
+        {
+            id: Neovim.Neovim
+            version: 0.11.2
+        }
+    ]
+}
