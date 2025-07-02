@@ -13,6 +13,11 @@ tools: {
             id: DevToys-app.DevToys
             version: 2.0-preview.8
         }
+
+        {   // lightweight build utility like make with a package manager
+            id: Xmake-io.Xmake
+            version: 3.0.0+20250615
+        }
     ]
 }
 

@@ -22,6 +22,8 @@ app | description | category
 [📰 neovim](https://neovim.io) | fast file editor | editor
 [🧸 devtoys](https://devtoys.app) | toolkit for developoers | toolkit
 [✨ twinkle tray](https://twinkletray.com/) | monitor brightness |system tray
+[📦 xmake](https://xmake.io/) | lightweight build utility | programming
+m
  
 
 ## 📄 license
